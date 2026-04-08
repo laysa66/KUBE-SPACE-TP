@@ -11,19 +11,7 @@ La station spatiale **K8S-Alpha** dérive dans l'espace. Les anciens systèmes s
 **Votre rôle** : Ingénieur(e) DevOps  
 **Équipement** : Minikube, Kubectl et le courage ✊
 
----
 
-## 📋 Ce que vous apprendrez
-
-| Concept | Rôle | Résilience |
-|---------|------|-----------|
-| **Pod** 🫘 | Unité de base (conteneur packagé) | ❌ Non |
-| **Service** 📞 | Point d'accès stable avec load balancing | ✅ Oui* |
-| **Deployment** 👨‍✈️ | Contrôleur qui garantit X replicas | ✅ Oui (self-healing) |
-
-*Tant qu'il y a des Pods disponibles
-
----
 
 ## 🛠️ Prérequis
 
